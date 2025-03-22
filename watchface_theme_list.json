@@ -1,8 +1,641 @@
-{
-	"swiss clock":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/swiss/",
-	"undone clock":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/undone/",
-	"star trek":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/startrek/",
-    "hall9000 clock":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/hal9000/",
-    "rainbow clock":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/rainbow/",
-	"simple black clock":"https://github.com/w4b-zero/My-TTGO-Watch/raw/master/images/watchface/bloack/"
-}
+[
+
+ 
+
+	{
+ 
+
+		"name": "Arduino - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Arduino-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Arduino-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Bender - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Bender-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Bender-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Blackhole - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Blackhole-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Blackhole-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Blood - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Blood-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Blood-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Brain - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Brain-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Brain-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Chip - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Chip-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Chip-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Clock - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Clock-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Clock-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Earth - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Earth-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Earth-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Matrix - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Matrix-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Matrix-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Moon - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Moon-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Moon-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Oscilloscope - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Oscilloscope-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Oscilloscope-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Pacman",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Pacman",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Pacman/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Simpsons - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Simpsons-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Simpsons-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "TV - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/TV-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/TV-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Windows95 - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Windows95-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/Windows95-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "Yin-Yang - 1",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/YinYang-1",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/PG-TTGO-Watchfaces/main/YinYang-1/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "casio clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/casio",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/casio/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "hall9000 clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/hal9000",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/hal9000/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "klingon",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/klingon",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/klingon/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "led clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/led",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/led/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-bttf",
+ 
+
+		"home_url": "https://github.com/guyou/my-ttgo-watch-face-bttf",
+ 
+
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-bttf/main",
+ 
+
+		"download": "https://github.com/guyou/my-ttgo-watch-face-bttf/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-comlink",
+ 
+
+		"home_url": "https://github.com/guyou/my-ttgo-watch-face-comlink",
+ 
+
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
+ 
+
+		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-gameboy",
+ 
+
+		"home_url": "https://github.com/guyou/my-ttgo-watch-face-gameboy",
+ 
+
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-gameboy/main",
+ 
+
+		"download": "https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-goldeneye",
+ 
+
+		"home_url": "https://github.com/reality52/my-ttgo-watch-face-goldeneye",
+ 
+
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-goldeneye/main",
+ 
+
+		"download": "https://github.com/reality52/my-ttgo-watch-face-goldeneye/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-kitt",
+ 
+
+		"home_url": "https://github.com/guyou/my-ttgo-watch-face-kitt",
+ 
+
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-kitt/main",
+ 
+
+		"download": "https://github.com/guyou/my-ttgo-watch-face-kitt/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-numeral-duo-green-blue",
+ 
+
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+ 
+
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-green-blue",
+ 
+
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/raw/main/numeral-duo-green-blue/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-numeral-duo-grey",
+ 
+
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+ 
+
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-grey",
+ 
+
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/raw/main/numeral-duo-grey/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-numeral-duo-white",
+ 
+
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+ 
+
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-white",
+ 
+
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/raw/main/numeral-duo-white/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-numeral-duo-yellow",
+ 
+
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+ 
+
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-yellow",
+ 
+
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/raw/main/numeral-duo-yellow/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-pipboy",
+ 
+
+		"home_url": "https://github.com/reality52/my-ttgo-watch-face-pipboy",
+ 
+
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-pipboy/main",
+ 
+
+		"download": "https://github.com/reality52/my-ttgo-watch-face-pipboy/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-thisisfine",
+ 
+
+		"home_url": "https://github.com/reality52/my-ttgo-watch-face-thisisfine",
+ 
+
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-thisisfine/main",
+ 
+
+		"download": "https://github.com/reality52/my-ttgo-watch-face-thisisfine/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-face-tranquilitylane",
+ 
+
+		"home_url": "https://github.com/reality52/my-ttgo-watch-face-tranquilitylane",
+ 
+
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-tranquilitylane/main",
+ 
+
+		"download": "https://github.com/reality52/my-ttgo-watch-face-tranquilitylane/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "my-ttgo-watch-pokemon",
+ 
+
+		"home_url": "https://github.com/guyou/my-ttgo-watch-pokemon",
+ 
+
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-pokemon/main",
+ 
+
+		"download": "https://github.com/guyou/my-ttgo-watch-pokemon/releases/latest/download/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "only indexes with backgound",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/black",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/black/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "rainbow clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/rainbow",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/rainbow/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "star trek",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/startrek",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/startrek/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "swiss clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/swiss",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/swiss/watchface.tar.gz"
+ 
+
+	},
+ 
+
+	{
+ 
+
+		"name": "undone clock",
+ 
+
+		"url": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/undone",
+ 
+
+		"home_url": "https://github.com/w4b-zero/My-TTGO-Watchfaces/",
+ 
+
+		"download": "https://raw.githubusercontent.com/w4b-zero/My-TTGO-Watchfaces/main/undone/watchface.tar.gz"
+ 
+
+	}
+ 
+
+]
