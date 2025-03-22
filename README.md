@@ -1,4 +1,4 @@
-This is a Fork from [https://github.com/PGNetHun/PG-TTGO-Watchfaces](https://github.com/sharandac/My-TTGO-Watchfaces)!
+This is a Fork from [https://github.com/sharandac/My-TTGO-Watchfaces](https://github.com/sharandac/My-TTGO-Watchfaces)!
 Please use the original repository! 
 This fork is just for my experiments with my LILYGO T-Watch V3!# My-TTGO-Watchfaces
 
